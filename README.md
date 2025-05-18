@@ -35,7 +35,6 @@ pip install -r requirements.txt
 
 ```env
 BOT_TOKEN=ваш_токен_бота
-API_KEY=ваш_ключ
 ```
 
 4. Запустіть бота:
