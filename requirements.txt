@@ -1,0 +1,7 @@
+aiogram~=3.19.0
+dotenv~=0.9.9
+
+pypng
+PyQRCode~=1.2.1
+validators~=0.34.0
+python-dotenv~=1.1.0
